@@ -3,7 +3,11 @@
 function Home() {
   return (
     <div>
+<<<<<<< HEAD
       hello
+=======
+      this is saran
+>>>>>>> feature-branch
     </div>
   )
 }
