@@ -1,6 +1,6 @@
 import {Route , Routes} from 'react-router-dom'
-import './App.css'
 import Home from './pages/Home'
+
 
 function App() {
 
@@ -8,7 +8,7 @@ function App() {
   return (
     <>
      <Routes>
-      <Route exact path='/home' elemrnt={<Home/>}/>
+      <Route exact path='/' element={<Home/>}/>
      </Routes>
     </>
   )

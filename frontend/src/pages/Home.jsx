@@ -1,12 +1,11 @@
 // import React from 'react'
+import HomePage from "../components/HomePage"
 
 function Home() {
   return (
-    <div>
-      this is saran
-      this is  sanjay
-      ok this is done
-    </div>
+    <>
+     <HomePage/>
+    </>
   )
 }
 
