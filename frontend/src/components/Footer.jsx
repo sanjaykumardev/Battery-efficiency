@@ -35,7 +35,7 @@ const Footer = () => {
 
       <div className="bg-black py-4">
         <p className="text-center text-white text-sm md:text-base">
-          All rights reserved @demo 2024
+          All rights reserve @demo 2024
         </p>
       </div>
     </>
